@@ -1239,7 +1239,7 @@ header {
                 font-size: 17px;
                 font-family: 'Kalnia', serif;
                 position: absolute;
-                top: 150%;
+                top: 145%;
                 left: 50%;
                 transform: translate(-50%, -50%);
                 z-index: 2;
@@ -1322,7 +1322,7 @@ header {
     font-size: 17px;
     font-family: 'Kalnia', serif;
     position: absolute;
-    top: 320vh;
+    top: 230vh;
     align-items: 48%;
     z-index: 2;
 }
